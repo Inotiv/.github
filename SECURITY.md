@@ -8,7 +8,7 @@ We take security issues seriously. If you discover a security vulnerability in a
 
 **Do not** open a public issue for security vulnerabilities.
 
-Instead, please email security details to: **[security@inotiv.com](mailto:security@inotiv.com)**
+Instead, please email security details to: **[cybersecurity@inotiv.com](mailto:cybersecurity@inotiv.com)**
 
 ### What to Include
 

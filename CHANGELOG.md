@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+
+## [0.1.1] - 2026-01-28
+
+### Changed:
+- `security@inotiv.com` -> `cybersecurity@inotiv.com`
+
 ## [0.1.0] - 2026-01-21
 
 ### Added
@@ -18,4 +25,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Organization profile README for public-facing GitHub profile
 - Issue templates for bug reports and feature requests
 - Pull request template for standardized PR descriptions
-

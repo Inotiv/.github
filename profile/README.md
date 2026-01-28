@@ -15,7 +15,7 @@ We are not currently accepting public contributions or external pull requests. F
 
 ### Security Issues
 
-If you discover a security vulnerability in any public-facing Inotiv system or repository, please report it responsibly to [security@inotiv.com](mailto:security@inotiv.com). Do not open public issues for security concerns.
+If you discover a security vulnerability in any public-facing Inotiv system or repository, please report it responsibly to [cybersecurity@inotiv.com](cybersecurity@inotiv.com). Do not open public issues for security concerns.
 
 ## For Team Members
 
